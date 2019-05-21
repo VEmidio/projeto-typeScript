@@ -1,0 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.default = {
+    port: process.env.PORT || 3000
+};
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiL2hvbWUvdmluaWNpdXMvRG9jdW1lbnRvcy90eXBlU2NyaXB0L2dldE1lc3RyZXMvZ2V0TWVzdHJlcy5BcGkvc3JjL2NvbmZpZ3VyYXRpb24vY29uZmlnLnRzIiwic291cmNlcyI6WyIvaG9tZS92aW5pY2l1cy9Eb2N1bWVudG9zL3R5cGVTY3JpcHQvZ2V0TWVzdHJlcy9nZXRNZXN0cmVzLkFwaS9zcmMvY29uZmlndXJhdGlvbi9jb25maWcudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFBQSxrQkFBYztJQUNWLElBQUksRUFBRSxPQUFPLENBQUMsR0FBRyxDQUFDLElBQUksSUFBSSxJQUFJO0NBQ2pDLENBQUEiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdHtcbiAgICBwb3J0OiBwcm9jZXNzLmVudi5QT1JUIHx8IDMwMDBcbn0iXX0=
